@@ -1,0 +1,556 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: auj2o6O1cLKSaJ3RW35BMUp8KCo=
+
+Name: system/lib/surround_sound_headers.so
+SHA1-Digest: yz1D6zmHTfTgp4EtPa9jkXIxUgY=
+
+Name: system/app/SemcMusic/SemcMusic.apk
+SHA1-Digest: XbwJevyNBVpro1L3XQxOZYCg9o0=
+
+Name: system/lib/libgnmc_fpx.3.3.2.3.so
+SHA1-Digest: 9Wa3VHEJzyiesHWjXEcMRyYuOp0=
+
+Name: system/lib/soundfx/libibanezseven-stereo+.so
+SHA1-Digest: lvq6/99vFJmTkk5v5LbI5cyLeic=
+
+Name: system/vendor/lib/soundfx/libqcbassboost.so
+SHA1-Digest: 1W9hWjHflWsMnAY+fwOJRRduLFk=
+
+Name: system/lib/libaudio-resampler.so
+SHA1-Digest: ZHzlIcOXYcnQ4fCJxkVwS9/xTVc=
+
+Name: system/lib/libhuey.so
+SHA1-Digest: au0q6X3oY/ogiQLspTXtoClqPYU=
+
+Name: system/app/SemcMetadataCleanup/lib/arm/libgnencryption.3.3.2.3.s
+ o
+SHA1-Digest: +PZV3aASpaNo6f/g7udavmitnCM=
+
+Name: system/usr/share/alsa/pcm/dpl.conf
+SHA1-Digest: CMpPJT/vVh+bc+kBdV0r4MMIVyw=
+
+Name: system/etc/dsx_param_file.bin
+SHA1-Digest: 3TAdlDihFkLvHEwYAH+bSAf1W/Q=
+
+Name: system/lib/libdummy32.so
+SHA1-Digest: kEI6Zfy/9iBr6vVRw1BTDtmYI7U=
+
+Name: system/etc/permissions/com.sonyericsson.colorextraction.xml
+SHA1-Digest: k2xmz9nF65L6DdvkwqlK/WLMxVY=
+
+Name: system/etc/sony_effect/clearphase_sp_param.bin
+SHA1-Digest: BEyL8BnmejwG11+i5+5m6mvUils=
+
+Name: system/app/SomcDlna/SomcDlna.apk
+SHA1-Digest: qWJeDD292+lKUpfkyaULpyn7QOo=
+
+Name: system/etc/permissions/com.sonymobile.settings.illumination.xml
+SHA1-Digest: Rf6slv8oBgnUuiSpZb2fmPyYF2U=
+
+Name: system/app/GoogleMusicExtension/GoogleMusicExtension.apk
+SHA1-Digest: gQMg97CaSUFubbgw6n3mIBIq/6Y=
+
+Name: system/app/SemcMusic/lib/arm/libdsadrm.so
+SHA1-Digest: rJu8Mc18JgPB3UCNXXJvSNtWEnY=
+
+Name: system/etc/permissions/com.sonyericsson.system.xml
+SHA1-Digest: +bazSRQ0+diZZ3bPvej1Ds/uZUQ=
+
+Name: system/usr/share/alsa/pcm/front.conf
+SHA1-Digest: ggjvXIKFLHJo1NjbEA/sBiYfBFo=
+
+Name: system/usr/share/alsa/pcm/dsnoop.conf
+SHA1-Digest: jkvuaM4pU4XwO72JPwWBtpSIeHU=
+
+Name: system/app/SomcDlna/lib/arm/libnativeio.so
+SHA1-Digest: 6t0+TCHHBH5Ye1dsilU1k1SOlAI=
+
+Name: system/framework/com.sonyericsson.audioeffect.jar
+SHA1-Digest: 7r7LElrnuOm4Ro7xGF0xwq8o1qE=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: DkvcXtAeY8Kongft8OdBYYLXE4k=
+
+Name: system/app/SemcMusic/lib/arm/libnativeio.so
+SHA1-Digest: iwjZMzzr/wb3L1MEEhyMaU4gCWM=
+
+Name: system/app/SemcMetadataCleanup/lib/arm/libgnmc_decoder.3.3.2.3.s
+ o
+SHA1-Digest: n1q9sJcDjYMidQpOFgU84Wm89yA=
+
+Name: system/etc/surround_sound/filter3r.pcm
+SHA1-Digest: 2LgoZPL30PQn89WtEO7x139ntZ4=
+
+Name: system/framework/com.sony.walkman.jar
+SHA1-Digest: IPxj9iHAf2fdD7/seCDcf9zDd+s=
+
+Name: system/lib/libstagefright_soft_alacdec.so
+SHA1-Digest: oYmZSSoBnkorHvGgyR1oQih4v0U=
+
+Name: system/etc/permissions/com.sonyericsson.dlna.dtcpplayer.xml
+SHA1-Digest: 9zYJJ8ld6QuH4wn9OXG1kiJogRs=
+
+Name: system/usr/share/alsa/pcm/surround71.conf
+SHA1-Digest: n81ECY3mkyTns9ARxDQPriDz2eM=
+
+Name: system/etc/sony_effect/effect_params.data
+SHA1-Digest: mZ4KbfK39NIcUCtbqO9W0vvLaVE=
+
+Name: system/framework/com.sonyericsson.musicvisualizer.jar
+SHA1-Digest: wqiR5vzXkJcbK9fKmf4qL7OEayI=
+
+Name: system/etc/permissions/com.sonyericsson.dtcpctrl_private.xml
+SHA1-Digest: Wg5B4fus5lhTU04MrryXnr2WX+8=
+
+Name: system/app/SemcMetadataCleanup/lib/arm/libgnmc_aactag.3.3.2.3.so
+SHA1-Digest: pdlmyfWag8kBvfZKC2ZaABpI0Zs=
+
+Name: system/usr/share/alsa/pcm/modem.conf
+SHA1-Digest: HcLIW3gD2QR/KpdsKNB08XxbOAk=
+
+Name: system/framework/com.sonyericsson.uxp.jar
+SHA1-Digest: OOwY3qtAvxzLTZHhmRQhmUzHqdw=
+
+Name: system/usr/share/alsa/pcm/surround51.conf
+SHA1-Digest: 2gFx6GbbfFt8WOJp1siK+N2jHOg=
+
+Name: system/lib/soundfx/libpreeffectwrapper.so
+SHA1-Digest: aAlJw0mvzW/VtmpSKl+eu1tbblU=
+
+Name: system/framework/com.sonyericsson.uxpres.jar
+SHA1-Digest: fxN3zGtJQiUQQBzxtC40MDbvVLE=
+
+Name: system/usr/share/alsa/pcm/rear.conf
+SHA1-Digest: fp1hbBv+64+eViFYwQf3/Td+n94=
+
+Name: system/app/SemcMetadataCleanup/SemcMetadataCleanup.apk
+SHA1-Digest: p4QKzVMs6yzEpy1oAM1hffTu+60=
+
+Name: system/vendor/lib/libaudioalsa.so
+SHA1-Digest: PFNMLKZiPkjo3aL8fyNIeAbee/A=
+
+Name: system/usr/share/alsa/pcm/iec958.conf
+SHA1-Digest: w/xO7nW/a72OD7byDtzcKiu4EtA=
+
+Name: system/app/YouTubePlugin/YouTubePlugin.apk
+SHA1-Digest: PPhDQspQkh8Qj1/P9Bn9kpz2yW4=
+
+Name: system/etc/permissions/com.sonyericsson.dlna.playanywhere.xml
+SHA1-Digest: aJJKVymSjSvFX8Z+LcZoWY7oiZY=
+
+Name: system/app/HeadphoneSelection/HeadphoneSelection.apk
+SHA1-Digest: MKdlJbm145GwffYUzQasDdtTB7Q=
+
+Name: system/framework/com.sonyericsson.media.infinite.extension_1.jar
+SHA1-Digest: Cdu+bdgLWc6kx942xaIGHY4gPZc=
+
+Name: system/etc/surround_sound/filter2r.pcm
+SHA1-Digest: dTIRChWVqnsrfYuqjY6io9+aobo=
+
+Name: system/etc/permissions/com.sonymobile.playanywhere.xml
+SHA1-Digest: yG2wCotvrJjHaT8lsybGwWXBDQM=
+
+Name: system/framework/com.sonyericsson.dlna_impl.jar
+SHA1-Digest: kF35ywvFEzyZWDq4h6UKGBFPtsg=
+
+Name: system/etc/permissions/com.sonyericsson.audioeffectif.xml
+SHA1-Digest: ZxvCuE5Yirf7zI2YHl2j+hh+NjY=
+
+Name: system/framework/com.sonyericsson.colorextraction_impl.jar
+SHA1-Digest: dz9BfOdlXjvVPuqTs+JQ5/UuylQ=
+
+Name: system/etc/permissions/com.sonyericsson.privateapis.xml
+SHA1-Digest: rPpyPJoWvB1SsbrkopjKPVZGbb8=
+
+Name: system/etc/surround_sound/filter4r.pcm
+SHA1-Digest: mkxT9GjtRWFaq9DynFRQS393Kj4=
+
+Name: system/app/WikipediaPlugin/WikipediaPlugin.apk
+SHA1-Digest: DL+Pzy5GUNlnmTjEyaGoGD8TS6M=
+
+Name: system/lib/soundfx/libdownmix.so
+SHA1-Digest: m05xEtzJgRdmH0qgmgC7Ik1Ft8s=
+
+Name: system/etc/permissions/com.sonyericsson.uxpres.xml
+SHA1-Digest: aZn2khi7P1nwAZzpmoA0aL0z2Ak=
+
+Name: system/etc/permissions/com.sonyericsson.illumination.xml
+SHA1-Digest: fMVx8gEO+MlkySwFMPGaNMwLbJY=
+
+Name: system/vendor/lib/soundfx/libibanezseven-hi-res.so
+SHA1-Digest: TwbEDzYrZqLQFO03g84y5u3/oWE=
+
+Name: system/lib/soundfx/libsweffectwrapper.so
+SHA1-Digest: dJlzKhunEtiQfL7WFN7KZxcwnL8=
+
+Name: system/usr/share/alsa/alsa.conf
+SHA1-Digest: Qwxc/gQpk65Ghs27iwveMmzlEf4=
+
+Name: system/framework/semc_audioeffectif.jar
+SHA1-Digest: l2kR24tMhxo4h5c5DHyNTjE1enk=
+
+Name: system/usr/share/alsa/pcm/side.conf
+SHA1-Digest: 0phJEG989ygUunyxCWVhAmZOc5w=
+
+Name: system/lib/libgnmc_decoder.3.3.2.3.so
+SHA1-Digest: HKJeIB7xsDIEG1koB52gYcSDh44=
+
+Name: system/app/SemcMetadataCleanup/lib/arm/libdec.so
+SHA1-Digest: zEk3ZTH9IwVJwd3YP8vx13At8SM=
+
+Name: system/lib/libjpeguser.so
+SHA1-Digest: hbGEIMWOs5pRSZrPdYK/zD/agqI=
+
+Name: system/etc/permissions/com.sonyericsson.dlna.xml
+SHA1-Digest: MbIycJyTws1pnr72LewBC3bEsOw=
+
+Name: system/lib/soundfx/libibanezsevendseehx.so
+SHA1-Digest: nEZO+P0f6IcnUNqu1uUbiYvMbng=
+
+Name: system/vendor/etc/effect_init_params
+SHA1-Digest: 9DthtT9rlVtNIclUcqj4tBm841E=
+
+Name: system/lib/soundfx/libaudiopreprocessing.so
+SHA1-Digest: XgcFUzNKq0sBf1A3h71LdysULTw=
+
+Name: system/lib/soundfx/libqcomvoiceprocessing.so
+SHA1-Digest: CcFytqdvsOqHLKCtSVAecMigc2Q=
+
+Name: system/etc/permissions/com.sonyericsson.metadatacleanup.xml
+SHA1-Digest: ClfqHqsOJErP2kNBJR5iURUXbTA=
+
+Name: system/etc/permissions/com.sonymobile.mediacontent.xml
+SHA1-Digest: a4TagP9Yi9mxmQAT/JA/OeyR3/s=
+
+Name: system/etc/sony_effect/xloud_param_arm.bin
+SHA1-Digest: tMTTPkJCCTr2nSz9F27R/4Iq5Ko=
+
+Name: system/usr/share/alsa/pcm/surround41.conf
+SHA1-Digest: rbr8/tw+sqmc2vZHoucFq7iAaI8=
+
+Name: system/app/GoogleLyricsPlugin/GoogleLyricsPlugin.apk
+SHA1-Digest: o/GhuGEauF68ljodGLAKlIXumjI=
+
+Name: system/vendor/etc/audio_effects.conf
+SHA1-Digest: iVShhBeFbx45ZwmgnuhImaiKt5g=
+
+Name: system/app/SomcDlna/lib/arm/libhuey_dms_plugin.so
+SHA1-Digest: +aTBHWs9n8W3jCWaM1V/TXi09nM=
+
+Name: system/etc/sforce/sforce_param_arm.bin
+SHA1-Digest: dQgjdPc7HfycJUzLXtrogOn50tI=
+
+Name: system/app/SemcMetadataCleanup/lib/arm/libstream_core.so
+SHA1-Digest: y5xqoC1LuS/86ZOwJlP3nCHMwpg=
+
+Name: system/lib/libnativeio.so
+SHA1-Digest: lGF0iEngGs8fnczyHLUQDhaB1Og=
+
+Name: system/lib/soundfx/libbundlewrapper.so
+SHA1-Digest: DHoL3kZ2QWCuNxQk8RJtnErhpfI=
+
+Name: system/etc/sony_effect/xloud_param_qdsp.bin
+SHA1-Digest: PxG1EHpHUf7Iv+5u/Dk50aLVxgs=
+
+Name: system/etc/permissions/com.sony.device.xml
+SHA1-Digest: VbUHQSpgdVBb2CDTuIsn8zVOsfk=
+
+Name: system/lib/soundfx/libxloudwrapper.so
+SHA1-Digest: iw09M2U7XfA/FsVnJQy8/tcPfkY=
+
+Name: system/app/SemcMetadataCleanup/lib/arm/libsmfmf.so
+SHA1-Digest: 4XipfH2Kgs1uSdxmIw5fohhpHnQ=
+
+Name: system/lib/libibanezsevendseehx.so
+SHA1-Digest: 4uyAL4xtqT0HZEWbpxUeNAmDr5o=
+
+Name: system/etc/surround_sound/filter1r.pcm
+SHA1-Digest: ic94LT/nYDaDudYhJuXLhrCC8Ec=
+
+Name: system/framework/com.sonyericsson.illumination.jar
+SHA1-Digest: T3sKOIH9AIr0Gw2+F8EmUaMiYhg=
+
+Name: system/usr/share/alsa/pcm/dmix.conf
+SHA1-Digest: piWz8y7q/8cTRgIUWjOl8Ea3iUE=
+
+Name: system/framework/com.sonymobile.settings.illumination.jar
+SHA1-Digest: bI8p5+VW6Jy1Y7cxtDp/98EmERU=
+
+Name: system/etc/permissions/com.sonyericsson.dtcpctrl_protected.xml
+SHA1-Digest: g/HAnVZptvS8wDRAG+Lb/Fkah2E=
+
+Name: system/usr/share/alsa/pcm/default.conf
+SHA1-Digest: a4UXVzpPrXTiVs68pSn5QkdQk34=
+
+Name: system/lib/soundfx/libsonysweffect.so
+SHA1-Digest: 020nD+oFYcF+qe/cyJCPzOP6RmY=
+
+Name: system/lib/soundfx/libqcomvisualizer.so
+SHA1-Digest: XZlkXy9FNhR3VPBiaczoddAzGUI=
+
+Name: system/framework/com.sonymobile.settings.shakecontrol.jar
+SHA1-Digest: sYu0jzjax3pP+CznPTexQb2tYLQ=
+
+Name: system/usr/share/alsa/pcm/surround40.conf
+SHA1-Digest: 9pF//7V/st4iTTi4pw0/RqXFJLs=
+
+Name: system/lib/libardrv_dynamic.so
+SHA1-Digest: bthRubhUC/66HP591kktrYcmXGI=
+
+Name: system/etc/surround_sound/filter1i.pcm
+SHA1-Digest: xwx/0saseHjYeIeCce1VaSmVb3Y=
+
+Name: system/lib/libdsadrm.so
+SHA1-Digest: AMMYqWJfZwFm+4ZgJchstvGvhi8=
+
+Name: system/framework/com.sonyericsson.dtcpctrl_private_impl.jar
+SHA1-Digest: kKY004pv2P6C2V0xvOmBJY0UaxM=
+
+Name: system/lib/libhuey_dms_plugin.so
+SHA1-Digest: YbPFskKIbVQwzt5LGxmAC+9cjAE=
+
+Name: system/etc/permissions/com.sonyericsson.musicvisualizer.xml
+SHA1-Digest: buRo0cfAUz2cPE2y6UAH1B1EhHM=
+
+Name: system/lib/libsurround_proc.so
+SHA1-Digest: tr7USvrS2iyZT2IaejWu/Ol2ze8=
+
+Name: system/app/SemcMetadataCleanup/lib/arm/libgnlocal_lookup.3.3.2.3
+ .so
+SHA1-Digest: R9zE9FEaccWFtdCDCYIi2qaeBxA=
+
+Name: system/framework/com.sony.device.jar
+SHA1-Digest: 4c4KPZ5rEX2wXOX2nX0GFUMGEVY=
+
+Name: system/framework/com.sonyericsson.appextensions.jar
+SHA1-Digest: khOgqJ5axC86qKjajN5CTsJwhTY=
+
+Name: system/etc/init.d/ibanez7clearaudioset
+SHA1-Digest: SkslGlVDIPF74sbREb8v2aVjSFs=
+
+Name: system/framework/com.sonyericsson.privateapis_impl.jar
+SHA1-Digest: bfmonNFUSZtaziKBkbeJsRU9hp8=
+
+Name: system/lib/libgnmc_aactag.3.3.2.3.so
+SHA1-Digest: yPIAR7sCak7MqQdvJK7SMpQ9IOM=
+
+Name: system/etc/surround_sound/filter2i.pcm
+SHA1-Digest: aJGZ87Pc5r2ndYHdkzbeC2QZR4o=
+
+Name: system/etc/permissions/com.sonymobile.settings.shakecontrol.xml
+SHA1-Digest: iFyWt8nZGKzLZ8N3Z/TLDTnbtMs=
+
+Name: system/lib/libvpt51wrapper.so
+SHA1-Digest: 5hE2xesj7fM53sDD/HZZekBVO9I=
+
+Name: system/lib/soundfx/libposteffectwrapper.so
+SHA1-Digest: oexZivMII+fvomlxik8ti76fvBI=
+
+Name: system/framework/com.sonymobile.playanywhere.jar
+SHA1-Digest: KQwmOocc5S8byhV52ODzgefavIA=
+
+Name: system/usr/share/alsa/pcm/center_lfe.conf
+SHA1-Digest: GRQhFIicWUuRgd0fknT8vrvAuW4=
+
+Name: system/framework/com.sonyericsson.music.jar
+SHA1-Digest: nYjU56NqWoSlH/S+lkN3lU8Ad8E=
+
+Name: system/lib/libmm-audio-resampler.so
+SHA1-Digest: bPFZC4J0Tt8wLM7YLPeJb5aczSc=
+
+Name: system/vendor/lib/soundfx/libqcvirt.so
+SHA1-Digest: 7Q2O583gGWMKmsZCj7nJaSqYaqc=
+
+Name: system/framework/com.sonymobile.media_impl.jar
+SHA1-Digest: FTiE4r+xUCoZIJfPyxhhSQcZSfk=
+
+Name: system/lib/soundfx/libsonypostprocbundle.so
+SHA1-Digest: VGDT6Og8rng9dPR3U9Zfg/0YZmM=
+
+Name: system/lib/libEffectOmxCore.so
+SHA1-Digest: 120Fvhyb4zA903W3xoHWd6up2U4=
+
+Name: system/framework/com.sonyericsson.dtcpctrl_protected_impl.jar
+SHA1-Digest: 5rCBSGEV/WwyFfPASLQWtd7mJ74=
+
+Name: system/lib/libgnencryption.3.3.2.3.so
+SHA1-Digest: fgdm27A4HLsSZM5mZDgSGtkSKpA=
+
+Name: system/app/SomcPlayAnywhere/SomcPlayAnywhere.apk
+SHA1-Digest: RN3cJXQD090MHlufpoBe4lFl0O0=
+
+Name: system/etc/permissions/com.sonyericsson.appextensions.xml
+SHA1-Digest: z9S2I+E3Q6oT6MIrSImczNDo2LA=
+
+Name: system/app/SomcDlna/lib/arm/libjpeguser.so
+SHA1-Digest: lUlPP3F6bUoAL48dXZrzCrfh9G0=
+
+Name: system/etc/sony_effect/sforce_param_qdsp.bin
+SHA1-Digest: FlhxBO5bCHCs2ts0T9CZWCWfoLE=
+
+Name: system/app/SemcMetadataCleanup/lib/arm/libgnmc_fpx.3.3.2.3.so
+SHA1-Digest: 8fBKuwo90OBSEcSdk+qH2geZZww=
+
+Name: system/vendor/lib/soundfx/libqcreverb.so
+SHA1-Digest: FYWOoEwsi0WW501oLhIY9GhEJ9c=
+
+Name: system/framework/com.sonyericsson.metadatacleanup.jar
+SHA1-Digest: aG6Fz9WOVy7mrHfoT3mXGRJbUco=
+
+Name: system/lib/libxloudwrapper.so
+SHA1-Digest: QLWGJ9l1GgCHUdnH8oEmh6EgYb0=
+
+Name: system/usr/share/alsa/pcm/surround50.conf
+SHA1-Digest: g1nz4giScJ7oF0Sot2wTtmxMLkA=
+
+Name: system/lib/libgntransition_detector.3.3.2.3.so
+SHA1-Digest: pEe6ilVvxUd0XguMe42AIeKyFus=
+
+Name: system/etc/sforce/sforce_coef_video.bin
+SHA1-Digest: 5eMYQN3ZDlAFABIOMTO/EOR1VHQ=
+
+Name: system/usr/share/alsa/cards/aliases.conf
+SHA1-Digest: ImnDRBNByw3S+dC0i/BJDVSIJ4w=
+
+Name: system/framework/com.sonyericsson.system.jar
+SHA1-Digest: KFX437XcNBVPtii+9y5MNJzPEbU=
+
+Name: system/etc/permissions/com.sonyericsson.media.infinite.extension
+ _1.xml
+SHA1-Digest: vNjpxERSxZJwIHiFNcagzF0itLA=
+
+Name: system/etc/permissions/com.sony.walkman.xml
+SHA1-Digest: K1+Ya/M9cFFEUpCgfVlFl73KnIo=
+
+Name: system/lib/libsmfmf.so
+SHA1-Digest: fRsJGLacHYMPZVJ5z5V8t9gGUG4=
+
+Name: system/framework/com.sonymobile.mediacontent.jar
+SHA1-Digest: HSsH8oyrQwbY2hTHuO7s73KlqDo=
+
+Name: system/lib/soundfx/libldnhncr.so
+SHA1-Digest: /P36MjwbCvhL8N9hmHvz1nj5bXA=
+
+Name: system/app/YouTubeKaraokePlugin/YouTubeKaraokePlugin.apk
+SHA1-Digest: 0zTyBslj1m6fWyT05+D5lD1s0UU=
+
+Name: system/app/SemcMusic/lib/arm/libjpeguser.so
+SHA1-Digest: WBMlkfwGa7n8aQzt9oKea99oZQE=
+
+Name: system/lib/soundfx/libreverbwrapper.so
+SHA1-Digest: +roDZ6R6Q3hA+mcJ5idy/hge/7k=
+
+Name: system/lib/libgnlocal_lookup.3.3.2.3.so
+SHA1-Digest: wZ3AQnXDXweOo69TA7H5jU9OyDU=
+
+Name: system/lib/soundfx/libeffectproxy.so
+SHA1-Digest: 7k/ayUu4v6yIOXJf94oEBLvqW+U=
+
+Name: system/app/SemcMetadataCleanup/lib/arm/libgnmc_id3tag.3.3.2.3.so
+SHA1-Digest: fA2CV6HWnv0ZUZLDLzxskKe4GUM=
+
+Name: system/lib/soundfx/libvpt51wrapper.so
+SHA1-Digest: zBv7hsGu0HWHX23S5NK3jtWzcvk=
+
+Name: system/etc/permissions/com.sonymobile.media.dashboard.extension.
+ xml
+SHA1-Digest: tIKj0ac6RUkO5H03oJPbxOHNssE=
+
+Name: system/etc/sony_effect/sforce_param_arm.bin
+SHA1-Digest: 6sb6hx/XVuGRrX6yOde5Q4oTobU=
+
+Name: system/framework/com.sonymobile.media.dashboard.extension.jar
+SHA1-Digest: jcirGmr19ck1l1BolaQMooVidk4=
+
+Name: system/lib/libsonydseehxwrapper.so
+SHA1-Digest: mdVYVkYKY9c+iB3eqNfCR8qLqWE=
+
+Name: system/lib/soundfx/libfnrwrapper.so
+SHA1-Digest: zRCSAmaqadf6bMiXxIKJCs0Far8=
+
+Name: system/vendor/etc/smt_vj19x_chfile_20140116.csv
+SHA1-Digest: Lpw8dLLc7vTzhvfqdtXYOEpLpcE=
+
+Name: system/app/SemcMusicVisualizer/SemcMusicVisualizer.apk
+SHA1-Digest: WNBipefml+qWj0chrZqjqBDhPco=
+
+Name: system/etc/audio_effects.conf
+SHA1-Digest: t4YqUhL4/us4TPJZirF2BxGCoTI=
+
+Name: system/app/SoundEnhancement/SoundEnhancement.apk
+SHA1-Digest: gtbDCa9QSjAT2Ny/Y/O3CEVyHTA=
+
+Name: system/framework/com.sonyericsson.dlna.dtcpplayer.jar
+SHA1-Digest: wIw/juMg6p39mK2mbwRJvbgnTvw=
+
+Name: system/framework/com.sonymobile.softreset.jar
+SHA1-Digest: 328UEYfI9xiwULn5g9vJ6cL+czQ=
+
+Name: system/app/SemcMusicVisualizer/lib/arm/libdummy32.so
+SHA1-Digest: 1mX5bcQeBeDqBia5k3OllIIHsKE=
+
+Name: system/vendor/lib/libsrsprocessing.so
+SHA1-Digest: 3Hav9MvWtfAp7kGJzrZvHZIZRjk=
+
+Name: system/app/SemcMetadataCleanup/lib/arm/libgntransition_detector.
+ 3.3.2.3.so
+SHA1-Digest: il421JaFnfFsDuDy6Iz+f+Onxfg=
+
+Name: system/lib/libUXVisualizerCore.so
+SHA1-Digest: 7PTA36hAVJ839pHfGTg9oJUw+0M=
+
+Name: system/app/SomcDlna/lib/arm/libdlnacommonjni.so
+SHA1-Digest: YlXscDvIwOKB8CXvvnITAjhlaoY=
+
+Name: system/etc/sforce/sforce_coef_music.bin
+SHA1-Digest: cwgjSQEXKNMvhBmnyqrMiUIfv8E=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: CSZ7Gyg6X76HeNNSMKPZaNDGFlI=
+
+Name: system/lib/libdlnacommonjni.so
+SHA1-Digest: 6kU+/CQQSp99olPw46idafyji20=
+
+Name: system/framework/com.sonyericsson.dlna.playanywhere.jar
+SHA1-Digest: +giZmKXcde8yqAifv0bJzoY/AUw=
+
+Name: system/app/SomcDlna/lib/arm/libhuey.so
+SHA1-Digest: S6sR5bJGxu7hwZ2fBHCOlRSL3WM=
+
+Name: system/lib/soundfx/libibanezseven-hi-res.so
+SHA1-Digest: +mXAIslQfzUl4AR5KqlG6cOk/Rw=
+
+Name: system/etc/surround_sound/filter4i.pcm
+SHA1-Digest: uSWlpTDrjWgbO/yCMbIqNJHUzaw=
+
+Name: system/etc/permissions/com.sonymobile.softreset.xml
+SHA1-Digest: F6pWHghiFerf7ikd8Ywl8CthYPs=
+
+Name: system/lib/soundfx/libvisualizer.so
+SHA1-Digest: uvV73swSHwpbD9GcXpUA/gyIYGY=
+
+Name: system/lib/libstagefright_soft_dsddec.so
+SHA1-Digest: j2T4fg66tNsaIBT7WEIT70D/eB8=
+
+Name: system/app/AudioEffectService/AudioEffectService.apk
+SHA1-Digest: YQZIqaQRHIr1TrOwGNnBQaWPQ2E=
+
+Name: system/lib/libgnmc_id3tag.3.3.2.3.so
+SHA1-Digest: 57+cL/U86F6Rvb63Wnm2V3agS84=
+
+Name: system/etc/surround_sound/filter3i.pcm
+SHA1-Digest: XM+FMsW5MUUQ7d6+fJakWpCtFiA=
+
+Name: system/etc/permissions/com.sonymobile.media.xml
+SHA1-Digest: vBwn46uofhnX0/W2flk3JK3jkY0=
+
+Name: system/lib/libdec.so
+SHA1-Digest: gIUyyLkzlguZYEFruvQ02O5pVNo=
+
+Name: system/lib/libeffects.so
+SHA1-Digest: zzkgBs0+Wud3ujkxyeqdQngQChk=
+
+Name: system/lib/libstream_core.so
+SHA1-Digest: 96AQD1+077U+h6IXraBlJnv/9mI=
+
